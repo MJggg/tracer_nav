@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mj/rechargearm-ws/install/tracer_msgs/lib/python3.8/site-packages",
+        "/home/mj/rechargearm-ws/install/rec_pos_python/lib/python3.8/site-packages",
+        "/home/mj/rechargearm-ws/install/data_serial_python/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mj/rechargearm-ws/install/tracer_msgs/lib/python3.8/site-packages",
+        "/home/mj/rechargearm-ws/install/rec_pos_python/lib/python3.8/site-packages",
+        "/home/mj/rechargearm-ws/install/data_serial_python/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
